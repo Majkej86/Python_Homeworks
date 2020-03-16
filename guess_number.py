@@ -46,4 +46,3 @@ while tries > 0:
               "Violets are blue\n"
               "You are a loser\n"
               "Go back to school!")
-

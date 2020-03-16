@@ -20,3 +20,13 @@ if word == reverse_word:
     print(word, "is a palindrome")
 else:
     print(word, "isn't a palindrome")
+
+# # Version with "for"
+
+# word = input("Please enter a word: ")
+# if_palindrom = True # or False
+
+# for i in range(len(word)):
+#     if word[i] != word[-i -1]:
+#         if_palindrom = False
+#         break
